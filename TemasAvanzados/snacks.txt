@@ -1,0 +1,7 @@
+1,Papitas,2000.0
+2,Vive100,1800.0
+3,Perrito,3500.0
+4,Cheetos Picantes,1800.0
+5,Gaseosa,2500.0
+6,Yogurt Griego,2200.0
+7,Chocolatina,1200.0
