@@ -12,6 +12,8 @@ Bienvenido a mi repositorio de proyectos de práctica en Java. Aquí encontrará
 
 - **ZonaFit con Spring Boot**: Versión actualizada del proyecto ZonaFit que utiliza Spring Boot, MySQL Connector/J y Lombok para optimizar la gestión de clientes del gimnasio ficticio.
 
+- **ZonaFit con GUI en Swing**: Nueva versión del proyecto ZonaFit que integra una interfaz gráfica con Swing, manteniendo Spring Boot y MySQL para la gestión de clientes del gimnasio.
+
 ## Estructura del Repositorio
 
 Cada proyecto se encuentra en su propio directorio. El código está estructurado para facilitar la lectura y el aprendizaje.
